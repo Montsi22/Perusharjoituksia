@@ -1,5 +1,7 @@
-.in
+*.in
 
-.out
 
-.pyc
+*.out
+
+
+*.pyc
